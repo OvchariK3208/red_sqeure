@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+    background-color: #22F0AC;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  
+}
+
+.red-sqeure {
+  width: 100px;
+  height: 100px;
+  background-color: #F04B22;
+  text-align: center;
+  line-height: 100px;
+}
